@@ -24,6 +24,7 @@
   "needsIdentity": false,
   "validDomains": [
     "*.bing.com",
-    "*.google.com"
+    "*.google.com",
+    "*.baidu.com"
   ]
 }
